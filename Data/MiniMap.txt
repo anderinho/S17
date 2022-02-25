@@ -274,4 +274,6 @@
 133       0       0      140    33     "Arenil - Earth Zone"
 133       0       0      155    193    "Arenil - Wind Zone"
 133       0       0      115    33     "Arenil - Darkness Zone"
+//Index   Group   Type   X      Y      Text
+134       0       0      125    027    "Entrance to Aida"
 end

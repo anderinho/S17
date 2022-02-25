@@ -16,6 +16,8 @@ ManaShieldRateGL = 100
 ManaShieldRateRW = 100
 ManaShieldRateSL = 100
 ManaShieldRateGC = 100
+ManaShieldRateKM = 100
+ManaShieldRateLM = 100
 ManaShieldTimeConstA = 60
 ManaShieldTimeConstB = 40
 ManaShieldMaxRate = 50
@@ -48,6 +50,8 @@ GreaterDefenseRateGL = 100
 GreaterDefenseRateRW = 100
 GreaterDefenseRateSL = 100
 GreaterDefenseRateGC = 100
+GreaterDefenseRateKM = 100
+GreaterDefenseRateLM = 100
 GreaterDefenseTimeConstA = 60
 
 ;==================================================
@@ -66,6 +70,8 @@ GreaterDamageRateGL = 100
 GreaterDamageRateRW = 100
 GreaterDamageRateSL = 100
 GreaterDamageRateGC = 100
+GreaterDamageRateKM = 100
+GreaterDamageRateLM = 100
 GreaterDamageTimeConstA = 60
 
 ;==================================================
@@ -94,6 +100,8 @@ GreaterLifeRateGL = 100
 GreaterLifeRateRW = 100
 GreaterLifeRateSL = 100
 GreaterLifeRateGC = 100
+GreaterLifeRateKM = 100
+GreaterLifeRateLM = 100
 GreaterLifeTimeConstA = 60
 GreaterLifeTimeConstB = 10
 GreaterLifeMaxRate = 100
@@ -172,6 +180,8 @@ ReflectDamageRateGL = 100
 ReflectDamageRateRW = 100
 ReflectDamageRateSL = 100
 ReflectDamageRateGC = 100
+ReflectDamageRateKM = 100
+ReflectDamageRateLM = 100
 ReflectDamageTimeConstA = 30
 ReflectDamageTimeConstB = 25
 ReflectDamageMaxRate = 50
@@ -385,6 +395,14 @@ BloodHowlingConstB = 200
 BloodHowlingTimeConstA = 60
 
 ;==================================================
+; Illusion Skill Settings
+;==================================================
+IllusionConstA = 200
+IllusionConstB = 400
+IllusionRateConstA = 30
+IllusionTimeConstA = 60
+
+;==================================================
 ; Evasion Skill Settings
 ;==================================================
 EvasionConstA = 50
@@ -428,6 +446,71 @@ SolidProtectionTimeConstA = 60
 SolidProtectionTimeConstB = 10
 SolidProtectionMaxRateA = 10
 SolidProtectionMaxRateB = 10
+
+;==================================================
+; Reflect Shield Skill Settings
+;==================================================
+ReflectShieldConstA = 15
+ReflectShieldRateConstA = 50
+ReflectShieldTimeConstA = 60
+
+;==================================================
+; Basic Heal Skill Settings
+;==================================================
+BasicHealConstA = 5
+BasicHealConstB = 7
+
+;==================================================
+; Basic Shield Recover Skill Settings
+;==================================================
+BasicShieldRecoverConstA = 2
+BasicShieldRecoverConstB = 9
+
+;==================================================
+; Basic Greater Defense Skill Settings
+;==================================================
+BasicGreaterDefenseConstA = 2
+BasicGreaterDefenseConstB = 12
+BasicGreaterDefenseRateDW = 100
+BasicGreaterDefenseRateDK = 100
+BasicGreaterDefenseRateFE = 100
+BasicGreaterDefenseRateMG = 100
+BasicGreaterDefenseRateDL = 100
+BasicGreaterDefenseRateSU = 100
+BasicGreaterDefenseRateRF = 100
+BasicGreaterDefenseRateGL = 100
+BasicGreaterDefenseRateRW = 100
+BasicGreaterDefenseRateSL = 100
+BasicGreaterDefenseRateGC = 100
+BasicGreaterDefenseRateKM = 100
+BasicGreaterDefenseRateLM = 100
+BasicGreaterDefenseTimeConstA = 60
+
+;==================================================
+; Basic Greater Damage Skill Settings
+;==================================================
+BasicGreaterDamageConstA = 3
+BasicGreaterDamageConstB = 10
+BasicGreaterDamageRateDW = 100
+BasicGreaterDamageRateDK = 100
+BasicGreaterDamageRateFE = 100
+BasicGreaterDamageRateMG = 100
+BasicGreaterDamageRateDL = 100
+BasicGreaterDamageRateSU = 100
+BasicGreaterDamageRateRF = 100
+BasicGreaterDamageRateGL = 100
+BasicGreaterDamageRateRW = 100
+BasicGreaterDamageRateSL = 100
+BasicGreaterDamageRateGC = 100
+BasicGreaterDamageRateKM = 100
+BasicGreaterDamageRateLM = 100
+BasicGreaterDamageTimeConstA = 60
+
+;==================================================
+; Basic Bless Skill Settings
+;==================================================
+BasicBlessConstA = 150
+BasicBlessTimeConstA = 300
 
 ;==================================================
 ; Apply Pentagram Absorb Settings

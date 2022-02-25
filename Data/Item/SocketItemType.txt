@@ -23,12 +23,18 @@
 2073      3           //Angelic Bow
 2074      3           //Devil Crossbow
 2081      3           //Devilwood Quiver
+2092      3           //Weiwen Magic Gun
+2093      3           //Cannon Magic Gun
 2580      3           //Eternal Wing Stick
 2590      3           //Deadly Staff
 2591      3           //Inberial Staff
 2592      3           //Summon Spirit Stick
 2595      3           //Miracle Staff
 2597      3           //Spite Staff
+2631      3           //Wise Magic Book
+2632      3           //Legendary Magic Book
+2644      3           //Spinel Orb
+2645      3           //Almandin Orb
 3089      3           //Crimson Glory
 3090      3           //Salamander Shield
 3091      3           //Frost Barrier
@@ -37,9 +43,9 @@
 3095      3           //Light Lord Shield
 3096      3           //Dark Devil Shield
 3097      3           //Magic Knight Shield
+3098      3           //Ambition Shield
 3112      3           //Grace Shield
 3113      3           //Constant Shield
-3098      3           //Ambition Shield
 3628      3           //Eternal Wing Helm
 3629      3           //Titan  Helm
 3630      3           //Brave Helm
@@ -62,6 +68,12 @@
 3733      3           //Constant Helm
 3762      3           //Fidelity Helm
 3763      3           //Trace Helm
+3794      3           //Titan Gunner Helmet
+3795      3           //Stormwinger Helmet
+3823      3           //Bright Helmet
+3824      3           //Darjeeling Helmet
+3841      3           //Finesse Helmet
+3842      3           //Geist Helmet
 4140      3           //Eternal Wing Armor
 4141      3           //Titan  Armor
 4142      3           //Brave Armor
@@ -80,7 +92,7 @@
 4170      3           //Stormwing Armor
 4171      3           //Light Lord Armor
 4172      3           //Magic Knight Armor
-4216      3           //Rune Divine Armor
+4216      3           //Rune Devine Armor
 4217      3           //Rune Light Armor
 4242      3           //Tigris Armor
 4243      3           //Crimson Skull Armor
@@ -88,6 +100,12 @@
 4245      3           //Constant Armor
 4274      3           //Fidelity Armor
 4275      3           //Trace Armor
+4306      3           //Titan Gunner Armor
+4307      3           //Stormwinger Armor
+4335      3           //Bright Armor
+4336      3           //Darjeeling Armor
+4353      3           //Finesse Armor
+4354      3           //Geist Armor
 4652      3           //Eternal Wing Pants
 4653      3           //Titan  Pants
 4654      3           //Brave Pants
@@ -114,6 +132,12 @@
 4757      3           //Constant Pants
 4786      3           //Fidelity Pants
 4787      3           //Trace Pants
+4818      3           //Titan Gunner Pants
+4819      3           //Stormwinger Pants
+4847      3           //Bright Pants
+4848      3           //Darjeeling Pants
+4865      3           //Finesse Pants
+4866      3           //Geist Pants
 5164      3           //Eternal Wing Gloves
 5165      3           //Titan  Gloves
 5166      3           //Brave Gloves
@@ -138,6 +162,12 @@
 5269      3           //Constant Gloves
 5298      3           //Fidelity Gloves
 5299      3           //Trace Gloves
+5330      3           //Titan Gunner Gloves
+5331      3           //Stormwinger Gloves
+5359      3           //Bright Gloves
+5360      3           //Darjeeling Gloves
+5377      3           //Finesse Gloves
+5378      3           //Geist Gloves
 5676      3           //Eternal Wing Boots
 5677      3           //Titan Boots
 5678      3           //Brave Boots
@@ -164,24 +194,14 @@
 5781      3           //Constant Boots
 5810      3           //Fidelity Boots
 5811      3           //Trace Boots
-
-//Index   MaxSocket   Comment
-20,39     3           //Jasper Necklace
-20,40     3           //Lapis Lazuli Necklace
-20,41     3           //Battle Jasper Necklace
-20,42     3           //Battle Lagoon Necklace
-
-
-4,45      3           //Weiwen Magic Gun
-4,46      3           //Cannon Magic Gun
-7,210     3           //Titan Gunner Helmet
-7,211     3           //StormWinger Helmet
-8,210     3           //Titan Gunner Armor
-8,211     3           //StormWinger  Armor
-9,210     3           //Titan Gunner Pants
-9,211     3           //StormWinger  Pants
-10,210    3           //Titan Gunner Glooves
-10,211    3           //StormWinger  Glooves
-11,210    3           //Titan Gunner Boots
-11,211    3           //StormWinger  Boots
+5842      3           //Titan Gunner Boots
+5843      3           //Stormwinger Boots
+5871      3           //Bright Boots
+5872      3           //Darjeeling Boots
+5889      3           //Finesse Boots
+5890      3           //Geist Boots
+10279     3           //Jasper Necklace
+10280     3           //Lapis Lazuli Necklace
+10281     3           //Battle Jasper Necklace
+10282     3           //Battle Lagoon Necklace
 end

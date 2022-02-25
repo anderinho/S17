@@ -219,6 +219,8 @@ GLLevelUpPoint = 7
 RWLevelUpPoint = 5
 SLLevelUpPoint = 5
 GCLevelUpPoint = 5
+KMLevelUpPoint = 5
+LMLevelUpPoint = 5
 PlusStatPoint = 1
 
 ;==================================================
@@ -279,7 +281,7 @@ MasterSkillTreeMaxLevel = 400
 ;==================================================
 MasterSkillTreeExt = 1
 MasterSkillTreeExtPoint = 1
-MasterSkillTreeExtMaxLevel = 900
+MasterSkillTreeExtMaxLevel = 1000
 
 ;==================================================
 ; Gens System Settings
@@ -335,7 +337,7 @@ CashShopGoblinPointValue_AL3 = 1
 ; Event Inventory Settings
 ;==================================================
 EventInventorySwitch = 1
-EventInventoryExpireYear = 2021
+EventInventoryExpireYear = 2022
 EventInventoryExpireMonth = 12
 EventInventoryExpireDay = 31
 
@@ -374,6 +376,15 @@ JewelBingoSwitch = 1
 ; Numeric Baseball Settings
 ;==================================================
 NumericBaseballSwitch = 1
+
+;==================================================
+; Monster Soul Settings
+;==================================================
+MonsterSoulSwitch = 1
+MonsterSoulResetDoW = 4
+MonsterSoulResetHour = 10
+MonsterSoulResetMinute = 30
+MonsterSoulPurchaseLimit = 3
 
 ;==================================================
 ; Party Settings

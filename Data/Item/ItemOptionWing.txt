@@ -77,12 +77,20 @@
 6617      4          39           2            39           2            0               //[Bound]Wings of Silence
 6618      0          55           1            43           2            0               //Wings of Condemnation
 6624      0          65           0            65           0            0               //Wings of Power
-
-12,489    4          39           2            39           2            0               //GC 3rd
-
-12,490    0          55           1            43           2            0               //??
-
-12,496    4          39           2            39           2            0               //GC 3rd [Bound]
+6633      4          39           2            39           2            0               //Wings of Hit
+6634      0          55           1            43           2            0               //Blood Wings
+6640      4          39           2            39           2            0               //[Bound] Wings of Hit
+//Index   DefenseA   IncDamageA   IncDamageB   DecDamageA   DecDamageB   RequireLevelA   Comment
+6171      4          39           2            39           2            0               //Eternal Wings
+6172      4          39           2            39           2            0               //[Bound] Eternal Wings
+6296      0          55           1            43           2            0               //LM 4th
+6298      2          12           2            12           2            0               //Small White Cloak
+6299      3          12           2            12           2            4               //Pure White Cloak
+6300      2          32           1            25           2            5               //Cloak of Innocence
+6301      2          32           1            25           2            5               //[Bound] Cloak of Innocence
+6302      4          39           2            39           2            0               //Cloak of Brilliance
+6303      4          39           2            39           2            0               //[Bound] Cloak of Brilliance
+6304      0          55           1            43           2            0               //KM 4th
 end
 
 1

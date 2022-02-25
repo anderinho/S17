@@ -57,4 +57,8 @@
 //Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   MonsterClass   Gate
 63        "Crismon Icarus"        50000          1070       *          *          *          0              861            631
 64        "Ardil Temple"          50000          1100       *          *          *          0              867            634
+//Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   MonsterClass   Gate
+65        "Aida Gray"             50000          1130       *          *          *          0              875            643
+66        "Old Kethotum"          50000          700        *          *          *          0              893            648
+67        "Blaze Kethotum"        50000          1160       *          *          *          0              896            659
 end

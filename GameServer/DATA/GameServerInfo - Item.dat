@@ -43,6 +43,8 @@ GLApplePotionRate = 10
 RWApplePotionRate = 10
 SLApplePotionRate = 10
 GCApplePotionRate = 10
+KMApplePotionRate = 10
+LMApplePotionRate = 10
 
 ;==================================================
 ; Small Life Potion Settings
@@ -58,6 +60,8 @@ GLSmallLifePotionRate = 20
 RWSmallLifePotionRate = 20
 SLSmallLifePotionRate = 20
 GCSmallLifePotionRate = 20
+KMSmallLifePotionRate = 20
+LMSmallLifePotionRate = 20
 
 ;==================================================
 ; Midle Life Potion Settings
@@ -73,6 +77,8 @@ GLMidleLifePotionRate = 30
 RWMidleLifePotionRate = 30
 SLMidleLifePotionRate = 30
 GCMidleLifePotionRate = 30
+KMMidleLifePotionRate = 30
+LMMidleLifePotionRate = 30
 
 ;==================================================
 ; Large Life Potion Settings
@@ -88,6 +94,8 @@ GLLargeLifePotionRate = 40
 RWLargeLifePotionRate = 40
 SLLargeLifePotionRate = 40
 GCLargeLifePotionRate = 40
+KMLargeLifePotionRate = 40
+LMLargeLifePotionRate = 40
 
 ;==================================================
 ; Small Mana Potion Settings
@@ -103,6 +111,8 @@ GLSmallManaPotionRate = 20
 RWSmallManaPotionRate = 20
 SLSmallManaPotionRate = 20
 GCSmallManaPotionRate = 20
+KMSmallManaPotionRate = 20
+LMSmallManaPotionRate = 20
 
 ;==================================================
 ; Midle Mana Potion Settings
@@ -118,6 +128,8 @@ GLMidleManaPotionRate = 30
 RWMidleManaPotionRate = 30
 SLMidleManaPotionRate = 30
 GCMidleManaPotionRate = 30
+KMMidleManaPotionRate = 30
+LMMidleManaPotionRate = 30
 
 ;==================================================
 ; Large Mana Potion Settings
@@ -133,6 +145,8 @@ GLLargeManaPotionRate = 40
 RWLargeManaPotionRate = 40
 SLLargeManaPotionRate = 40
 GCLargeManaPotionRate = 40
+KMLargeManaPotionRate = 40
+LMLargeManaPotionRate = 40
 
 ;==================================================
 ; Small Shield Potion Settings
@@ -148,6 +162,8 @@ GLSmallShieldPotionRate = 25
 RWSmallShieldPotionRate = 25
 SLSmallShieldPotionRate = 25
 GCSmallShieldPotionRate = 25
+KMSmallShieldPotionRate = 25
+LMSmallShieldPotionRate = 25
 
 ;==================================================
 ; Midle Shield Potion Settings
@@ -163,6 +179,8 @@ GLMidleShieldPotionRate = 35
 RWMidleShieldPotionRate = 35
 SLMidleShieldPotionRate = 35
 GCMidleShieldPotionRate = 35
+KMMidleShieldPotionRate = 35
+LMMidleShieldPotionRate = 35
 
 ;==================================================
 ; Large Shield Potion Settings
@@ -178,6 +196,8 @@ GLLargeShieldPotionRate = 45
 RWLargeShieldPotionRate = 45
 SLLargeShieldPotionRate = 45
 GCLargeShieldPotionRate = 45
+KMLargeShieldPotionRate = 45
+LMLargeShieldPotionRate = 45
 
 ;==================================================
 ; Small Compound Potion Settings
@@ -204,6 +224,10 @@ SLSmallCompoundPotionRate1 = 10
 SLSmallCompoundPotionRate2 = 5
 GCSmallCompoundPotionRate1 = 10
 GCSmallCompoundPotionRate2 = 5
+KMSmallCompoundPotionRate1 = 10
+KMSmallCompoundPotionRate2 = 5
+LMSmallCompoundPotionRate1 = 10
+LMSmallCompoundPotionRate2 = 5
 
 ;==================================================
 ; Midle Compound Potion Settings
@@ -230,6 +254,10 @@ SLMidleCompoundPotionRate1 = 25
 SLMidleCompoundPotionRate2 = 10
 GCMidleCompoundPotionRate1 = 25
 GCMidleCompoundPotionRate2 = 10
+KMMidleCompoundPotionRate1 = 25
+KMMidleCompoundPotionRate2 = 10
+LMMidleCompoundPotionRate1 = 25
+LMMidleCompoundPotionRate2 = 10
 
 ;==================================================
 ; Large Compound Potion Settings
@@ -256,6 +284,10 @@ SLLargeCompoundPotionRate1 = 45
 SLLargeCompoundPotionRate2 = 20
 GCLargeCompoundPotionRate1 = 45
 GCLargeCompoundPotionRate2 = 20
+KMLargeCompoundPotionRate1 = 45
+KMLargeCompoundPotionRate2 = 20
+LMLargeCompoundPotionRate1 = 45
+LMLargeCompoundPotionRate2 = 20
 
 ;==================================================
 ; Elite Life Potion Settings
@@ -271,6 +303,8 @@ GLEliteLifePotionRate = 100
 RWEliteLifePotionRate = 100
 SLEliteLifePotionRate = 100
 GCEliteLifePotionRate = 100
+KMEliteLifePotionRate = 100
+LMEliteLifePotionRate = 100
 
 ;==================================================
 ; Elite Mana Potion Settings
@@ -286,6 +320,8 @@ GLEliteManaPotionRate = 100
 RWEliteManaPotionRate = 100
 SLEliteManaPotionRate = 100
 GCEliteManaPotionRate = 100
+KMEliteManaPotionRate = 100
+LMEliteManaPotionRate = 100
 
 ;==================================================
 ; Elite Shield Potion Settings
@@ -301,3 +337,5 @@ GLEliteShieldPotionRate = 65
 RWEliteShieldPotionRate = 65
 SLEliteShieldPotionRate = 65
 GCEliteShieldPotionRate = 65
+KMEliteShieldPotionRate = 65
+LMEliteShieldPotionRate = 65

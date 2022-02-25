@@ -8,6 +8,54 @@
 6         94            2             0000           2559           *             *             *             8               //General Weapon
 7         93            20            0000           2559           *             *             *             16              //General Weapon
 8         92            10            0000           2559           *             *             *             32              //General Weapon
+1         84            5             1052           1059           *             1             *             *               //General Rune Mace
+2         81            4             1052           1059           *             *             1             *               //General Rune Mace
+3         99            12            1052           1059           *             *             *             1               //General Rune Mace
+4         98            12            1052           1059           *             *             *             2               //General Rune Mace
+5         97            7             1052           1059           *             *             *             4               //General Rune Mace
+6         96            2             1052           1059           *             *             *             8               //General Rune Mace
+7         95            20            1052           1059           *             *             *             16              //General Rune Mace
+8         92            10            1052           1059           *             *             *             32              //General Rune Mace
+1         84            5             1061           1063           *             1             *             *               //General Rune Mace
+2         81            4             1061           1063           *             *             1             *               //General Rune Mace
+3         99            12            1061           1063           *             *             *             1               //General Rune Mace
+4         98            12            1061           1063           *             *             *             2               //General Rune Mace
+5         97            7             1061           1063           *             *             *             4               //General Rune Mace
+6         96            2             1061           1063           *             *             *             8               //General Rune Mace
+7         95            20            1061           1063           *             *             *             16              //General Rune Mace
+8         92            10            1061           1063           *             *             *             32              //General Rune Mace
+1         84            5             1065           1065           *             1             *             *               //Blue Eye Rune Mace
+2         81            4             1065           1065           *             *             1             *               //Blue Eye Rune Mace
+3         99            12            1065           1065           *             *             *             1               //Blue Eye Rune Mace
+4         98            12            1065           1065           *             *             *             2               //Blue Eye Rune Mace
+5         97            7             1065           1065           *             *             *             4               //Blue Eye Rune Mace
+6         96            2             1065           1065           *             *             *             8               //Blue Eye Rune Mace
+7         95            20            1065           1065           *             *             *             16              //Blue Eye Rune Mace
+8         92            10            1065           1065           *             *             *             32              //Blue Eye Rune Mace
+1         84            5             1067           1067           *             1             *             *               //Silver Heart Rune Mace
+2         81            4             1067           1067           *             *             1             *               //Silver Heart Rune Mace
+3         99            12            1067           1067           *             *             *             1               //Silver Heart Rune Mace
+4         98            12            1067           1067           *             *             *             2               //Silver Heart Rune Mace
+5         97            7             1067           1067           *             *             *             4               //Silver Heart Rune Mace
+6         96            2             1067           1067           *             *             *             8               //Silver Heart Rune Mace
+7         95            20            1067           1067           *             *             *             16              //Silver Heart Rune Mace
+8         92            10            1067           1067           *             *             *             32              //Silver Heart Rune Mace
+1         84            5             1069           1069           *             1             *             *               //Manticore Rune Mace
+2         81            4             1069           1069           *             *             1             *               //Manticore Rune Mace
+3         99            12            1069           1069           *             *             *             1               //Manticore Rune Mace
+4         98            12            1069           1069           *             *             *             2               //Manticore Rune Mace
+5         97            7             1069           1069           *             *             *             4               //Manticore Rune Mace
+6         96            2             1069           1069           *             *             *             8               //Manticore Rune Mace
+7         95            20            1069           1069           *             *             *             16              //Manticore Rune Mace
+8         92            10            1069           1069           *             *             *             32              //Manticore Rune Mace
+1         84            5             2090           2103           *             1             *             *               //General Magic Gun
+2         81            4             2090           2103           *             *             1             *               //General Magic Gun
+3         99            12            2090           2103           *             *             *             1               //General Magic Gun
+4         98            12            2090           2103           *             *             *             2               //General Magic Gun
+5         97            7             2090           2103           *             *             *             4               //General Magic Gun
+6         96            2             2090           2103           *             *             *             8               //General Magic Gun
+7         95            20            2090           2103           *             *             *             16              //General Magic Gun
+8         92            10            2090           2103           *             *             *             32              //General Magic Gun
 1         84            5             2560           3071           *             1             *             *               //General Staff
 2         81            4             2560           3071           *             *             1             *               //General Staff
 3         99            12            2560           3071           *             *             *             1               //General Staff
@@ -34,15 +82,15 @@
 6         115           2             2607           2607           *             *             *             8               //[Bound] Book of Lagle
 7         114           20            2607           2607           *             *             *             16              //[Bound] Book of Lagle
 8         92            10            2607           2607           *             *             *             32              //[Bound] Book of Lagle
-0         0             0             2617           2620           *             *             *             *               //Mastery Book
-1         84            5             2617           2620           *             1             *             *               //Mastery Book
-2         113           4             2617           2620           *             *             1             *               //Mastery Book
-3         99            12            2617           2620           *             *             *             1               //Mastery Book
-4         98            12            2617           2620           *             *             *             2               //Mastery Book
-5         97            7             2617           2620           *             *             *             4               //Mastery Book
-6         115           2             2617           2620           *             *             *             8               //Mastery Book
-7         114           20            2617           2620           *             *             *             16              //Mastery Book
-8         92            10            2617           2620           *             *             *             32              //Mastery Book
+0         0             0             2617           2620           *             *             *             *               //General Mastery Book
+1         84            5             2617           2620           *             1             *             *               //General Mastery Book
+2         113           4             2617           2620           *             *             1             *               //General Mastery Book
+3         99            12            2617           2620           *             *             *             1               //General Mastery Book
+4         98            12            2617           2620           *             *             *             2               //General Mastery Book
+5         97            7             2617           2620           *             *             *             4               //General Mastery Book
+6         115           2             2617           2620           *             *             *             8               //General Mastery Book
+7         114           20            2617           2620           *             *             *             16              //General Mastery Book
+8         92            10            2617           2620           *             *             *             32              //General Mastery Book
 0         0             0             2623           2623           *             *             *             *               //Blue Eye Book
 1         84            5             2623           2623           *             1             *             *               //Blue Eye Book
 2         113           4             2623           2623           *             *             1             *               //Blue Eye Book
@@ -61,6 +109,15 @@
 6         115           2             2626           2626           *             *             *             8               //Silver Heart Book
 7         114           20            2626           2626           *             *             *             16              //Silver Heart Book
 8         92            10            2626           2626           *             *             *             32              //Silver Heart Book
+0         0             0             2657           2657           *             *             *             *               //Manticore Book
+1         84            5             2657           2657           *             1             *             *               //Manticore Book
+2         113           4             2657           2657           *             *             1             *               //Manticore Book
+3         99            12            2657           2657           *             *             *             1               //Manticore Book
+4         98            12            2657           2657           *             *             *             2               //Manticore Book
+5         97            7             2657           2657           *             *             *             4               //Manticore Book
+6         115           2             2657           2657           *             *             *             8               //Manticore Book
+7         114           20            2657           2657           *             *             *             16              //Manticore Book
+8         92            10            2657           2657           *             *             *             32              //Manticore Book
 0         0             0             3072           3583           1             *             *             *               //General Shield
 1         84            5             3072           3583           *             1             *             *               //General Shield
 2         82            5             3072           3583           *             *             1             *               //General Shield
@@ -500,6 +557,10 @@
 4         109           5             6633           6633           *             *             *             2               //Wings of Hit
 5         110           5             6633           6633           *             *             *             4               //Wings of Hit
 6         111           5             6633           6633           *             *             *             8               //Wings of Hit
+1         84            5             6634           6634           *             1             *             *               //Blood Wings
+2         85            1             6634           6634           *             *             1             *               //Blood Wings
+2         81            4             6634           6634           *             *             1             16              //Blood Wings
+2         83            4             6634           6634           *             *             1             32              //Blood Wings
 1         84            5             6640           6640           *             1             *             *               //[Bound] Wings of Hit
 2         85            1             6640           6640           *             *             1             *               //[Bound] Wings of Hit
 2         80            4             6640           6640           *             *             1             16              //[Bound] Wings of Hit
@@ -508,6 +569,66 @@
 4         109           5             6640           6640           *             *             *             2               //[Bound] Wings of Hit
 5         110           5             6640           6640           *             *             *             4               //[Bound] Wings of Hit
 6         111           5             6640           6640           *             *             *             8               //[Bound] Wings of Hit
+9         97            7             6219           6219           *             *             *             *               //Pierce Lion
+9         97            7             6220           6220           *             *             *             *               //Pierce Lion (Rare)
+1         84            5             6171           6171           *             1             *             *               //Eternal Wings
+2         85            1             6171           6171           *             *             1             *               //Eternal Wings
+2         80            4             6171           6171           *             *             1             16              //Eternal Wings
+2         83            4             6171           6171           *             *             1             32              //Eternal Wings
+3         102           5             6171           6171           *             *             *             1               //Eternal Wings
+4         109           5             6171           6171           *             *             *             2               //Eternal Wings
+5         110           5             6171           6171           *             *             *             4               //Eternal Wings
+6         111           5             6171           6171           *             *             *             8               //Eternal Wings
+1         84            5             6172           6172           *             1             *             *               //[Bound] Eternal Wings
+2         85            1             6172           6172           *             *             1             *               //[Bound] Eternal Wings
+2         80            4             6172           6172           *             *             1             16              //[Bound] Eternal Wings
+2         83            4             6172           6172           *             *             1             32              //[Bound] Eternal Wings
+3         102           5             6172           6172           *             *             *             1               //[Bound] Eternal Wings
+4         109           5             6172           6172           *             *             *             2               //[Bound] Eternal Wings
+5         110           5             6172           6172           *             *             *             4               //[Bound] Eternal Wings
+6         111           5             6172           6172           *             *             *             8               //[Bound] Eternal Wings
+1         84            5             6296           6296           *             1             *             *               //LM 4th
+2         85            1             6296           6296           *             *             1             *               //LM 4th
+2         81            4             6296           6296           *             *             1             16              //LM 4th
+2         83            4             6296           6296           *             *             1             32              //LM 4th
+1         84            5             6299           6299           *             1             *             *               //Pure White Cloak
+2         80            4             6299           6299           *             *             1             *               //Pure White Cloak
+1         84            5             6300           6300           *             1             *             *               //Cloak of Innocence
+2         85            1             6300           6300           *             *             1             *               //Cloak of Innocence
+2         81            4             6300           6300           *             *             1             32              //Cloak of Innocence
+3         100           5             6300           6300           *             *             *             1               //Cloak of Innocence
+4         101           5             6300           6300           *             *             *             2               //Cloak of Innocence
+5         102           3             6300           6300           *             *             *             4               //Cloak of Innocence
+6         103           50            6300           6300           *             *             *             8               //Cloak of Innocence
+7         97            5             6300           6300           *             *             *             16              //Cloak of Innocence
+1         84            5             6301           6301           *             1             *             *               //[Bound] Cloak of Innocence
+2         85            1             6301           6301           *             *             1             *               //[Bound] Cloak of Innocence
+2         81            4             6301           6301           *             *             1             32              //[Bound] Cloak of Innocence
+3         100           5             6301           6301           *             *             *             1               //[Bound] Cloak of Innocence
+4         101           5             6301           6301           *             *             *             2               //[Bound] Cloak of Innocence
+5         102           3             6301           6301           *             *             *             4               //[Bound] Cloak of Innocence
+6         103           50            6301           6301           *             *             *             8               //[Bound] Cloak of Innocence
+7         97            5             6301           6301           *             *             *             16              //[Bound] Cloak of Innocence
+1         84            5             6302           6302           *             1             *             *               //Cloak of Brilliance
+2         85            1             6302           6302           *             *             1             *               //Cloak of Brilliance
+2         80            4             6302           6302           *             *             1             16              //Cloak of Brilliance
+2         83            4             6302           6302           *             *             1             32              //Cloak of Brilliance
+3         102           5             6302           6302           *             *             *             1               //Cloak of Brilliance
+4         109           5             6302           6302           *             *             *             2               //Cloak of Brilliance
+5         110           5             6302           6302           *             *             *             4               //Cloak of Brilliance
+6         111           5             6302           6302           *             *             *             8               //Cloak of Brilliance
+1         84            5             6303           6303           *             1             *             *               //[Bound] Cloak of Brilliance
+2         85            1             6303           6303           *             *             1             *               //[Bound] Cloak of Brilliance
+2         80            4             6303           6303           *             *             1             16              //[Bound] Cloak of Brilliance
+2         83            4             6303           6303           *             *             1             32              //[Bound] Cloak of Brilliance
+3         102           5             6303           6303           *             *             *             1               //[Bound] Cloak of Brilliance
+4         109           5             6303           6303           *             *             *             2               //[Bound] Cloak of Brilliance
+5         110           5             6303           6303           *             *             *             4               //[Bound] Cloak of Brilliance
+6         111           5             6303           6303           *             *             *             8               //[Bound] Cloak of Brilliance
+1         84            5             6304           6304           *             1             *             *               //KM 4th
+2         85            1             6304           6304           *             *             1             *               //KM 4th
+2         81            4             6304           6304           *             *             1             16              //KM 4th
+2         83            4             6304           6304           *             *             1             32              //KM 4th
 9         119           50            6656           6656           *             *             *             *               //Angel
 0         49            0             6659           6659           *             *             *             *               //Dinorant
 3         112           0             6659           6659           *             *             *             1               //Dinorant

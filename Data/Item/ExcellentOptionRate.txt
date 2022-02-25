@@ -5,6 +5,42 @@
 8         0000           2559           "Mul Physi Damage"                   50     //General Weapon
 16        0000           2559           "Add Physi Damage By Level"          50     //General Weapon
 32        0000           2559           "Add Excellent Damage Rate"          50     //General Weapon
+1         1052           1059           "Add Hunt MP"                        50     //General Rune Mace
+2         1052           1059           "Add Hunt HP"                        50     //General Rune Mace
+4         1052           1059           "Add Speed"                          50     //General Rune Mace
+8         1052           1059           "Mul Magic Damage"                   50     //General Rune Mace
+16        1052           1059           "Add Magic Damage By Level"          50     //General Rune Mace
+32        1052           1059           "Add Excellent Damage Rate"          50     //General Rune Mace
+1         1061           1063           "Add Hunt MP"                        50     //General Rune Mace
+2         1061           1063           "Add Hunt HP"                        50     //General Rune Mace
+4         1061           1063           "Add Speed"                          50     //General Rune Mace
+8         1061           1063           "Mul Magic Damage"                   50     //General Rune Mace
+16        1061           1063           "Add Magic Damage By Level"          50     //General Rune Mace
+32        1061           1063           "Add Excellent Damage Rate"          50     //General Rune Mace
+1         1065           1065           "Add Hunt MP"                        50     //Blue Eye Rune Mace
+2         1065           1065           "Add Hunt HP"                        50     //Blue Eye Rune Mace
+4         1065           1065           "Add Speed"                          50     //Blue Eye Rune Mace
+8         1065           1065           "Mul Magic Damage"                   50     //Blue Eye Rune Mace
+16        1065           1065           "Add Magic Damage By Level"          50     //Blue Eye Rune Mace
+32        1065           1065           "Add Excellent Damage Rate"          50     //Blue Eye Rune Mace
+1         1067           1067           "Add Hunt MP"                        50     //Silver Heart Rune Mace
+2         1067           1067           "Add Hunt HP"                        50     //Silver Heart Rune Mace
+4         1067           1067           "Add Speed"                          50     //Silver Heart Rune Mace
+8         1067           1067           "Mul Magic Damage"                   50     //Silver Heart Rune Mace
+16        1067           1067           "Add Magic Damage By Level"          50     //Silver Heart Rune Mace
+32        1067           1067           "Add Excellent Damage Rate"          50     //Silver Heart Rune Mace
+1         1069           1069           "Add Hunt MP"                        50     //Manticore Rune Mace
+2         1069           1069           "Add Hunt HP"                        50     //Manticore Rune Mace
+4         1069           1069           "Add Speed"                          50     //Manticore Rune Mace
+8         1069           1069           "Mul Magic Damage"                   50     //Manticore Rune Mace
+16        1069           1069           "Add Magic Damage By Level"          50     //Manticore Rune Mace
+32        1069           1069           "Add Excellent Damage Rate"          50     //Manticore Rune Mace
+1         2090           2103           "Add Hunt MP"                        50     //General Magic Gun
+2         2090           2103           "Add Hunt HP"                        50     //General Magic Gun
+4         2090           2103           "Add Speed"                          50     //General Magic Gun
+8         2090           2103           "Mul Magic Damage"                   50     //General Magic Gun
+16        2090           2103           "Add Magic Damage By Level"          50     //General Magic Gun
+32        2090           2103           "Add Excellent Damage Rate"          50     //General Magic Gun
 1         2560           3071           "Add Hunt MP"                        50     //General Staff
 2         2560           3071           "Add Hunt HP"                        50     //General Staff
 4         2560           3071           "Add Speed"                          50     //General Staff
@@ -41,6 +77,12 @@
 8         2626           2626           "Mul Curse Damage"                   50     //Silver Heart Book
 16        2626           2626           "Add Curse Damage By Level"          50     //Silver Heart Book
 32        2626           2626           "Add Excellent Damage Rate"          50     //Silver Heart Book
+1         2657           2657           "Add Hunt MP"                        50     //Manticore Book
+2         2657           2657           "Add Hunt HP"                        50     //Manticore Book
+4         2657           2657           "Add Speed"                          50     //Manticore Book
+8         2657           2657           "Mul Curse Damage"                   50     //Manticore Book
+16        2657           2657           "Add Curse Damage By Level"          50     //Manticore Book
+32        2657           2657           "Add Excellent Damage Rate"          50     //Manticore Book
 1         3072           3583           "Add Money Amount Drop Rate"         50     //General Shield
 2         3072           3583           "Mul Defense Success Rate"           50     //General Shield
 4         3072           3583           "Add Damage Reflect"                 50     //General Shield
@@ -240,6 +282,32 @@
 2         6640           6640           "Add Full Damage Reflect Rate"       50     //[Bound] Wings of Hit
 4         6640           6640           "Add D. Full HP Restore Rate"        50     //[Bound] Wings of Hit
 8         6640           6640           "Add D. Full MP Restore Rate"        50     //[Bound] Wings of Hit
+1         6171           6171           "Add Ignore Defense Rate"            50     //Eternal Wings
+2         6171           6171           "Add Full Damage Reflect Rate"       50     //Eternal Wings
+4         6171           6171           "Add D. Full HP Restore Rate"        50     //Eternal Wings
+8         6171           6171           "Add D. Full MP Restore Rate"        50     //Eternal Wings
+1         6172           6172           "Add Ignore Defense Rate"            50     //[Bound] Eternal Wings
+2         6172           6172           "Add Full Damage Reflect Rate"       50     //[Bound] Eternal Wings
+4         6172           6172           "Add D. Full HP Restore Rate"        50     //[Bound] Eternal Wings
+8         6172           6172           "Add D. Full MP Restore Rate"        50     //[Bound] Eternal Wings
+1         6300           6300           "Add Wing HP"                        50     //Cloak of Innocence
+2         6300           6300           "Add Wing MP"                        50     //Cloak of Innocence
+4         6300           6300           "Add Ignore Defense Rate"            50     //Cloak of Innocence
+8         6300           6300           "Add BP"                             00     //Cloak of Innocence
+16        6300           6300           "Add Speed"                          00     //Cloak of Innocence
+1         6301           6301           "Add Wing HP"                        50     //[Bound] Cloak of Innocence
+2         6301           6301           "Add Wing MP"                        50     //[Bound] Cloak of Innocence
+4         6301           6301           "Add Ignore Defense Rate"            50     //[Bound] Cloak of Innocence
+8         6301           6301           "Add BP"                             00     //[Bound] Cloak of Innocence
+16        6301           6301           "Add Speed"                          00     //[Bound] Cloak of Innocence
+1         6302           6302           "Add Ignore Defense Rate"            50     //Cloak of Brilliance
+2         6302           6302           "Add Full Damage Reflect Rate"       50     //Cloak of Brilliance
+4         6302           6302           "Add D. Full HP Restore Rate"        50     //Cloak of Brilliance
+8         6302           6302           "Add D. Full MP Restore Rate"        50     //Cloak of Brilliance
+1         6303           6303           "Add Ignore Defense Rate"            50     //[Bound] Cloak of Brilliance
+2         6303           6303           "Add Full Damage Reflect Rate"       50     //[Bound] Cloak of Brilliance
+4         6303           6303           "Add D. Full HP Restore Rate"        50     //[Bound] Cloak of Brilliance
+8         6303           6303           "Add D. Full MP Restore Rate"        50     //[Bound] Cloak of Brilliance
 1         6659           6659           "Add Dinorant 1"                     50     //Dinorant
 2         6659           6659           "Add BP"                             50     //Dinorant
 4         6659           6659           "Add Speed"                          50     //Dinorant

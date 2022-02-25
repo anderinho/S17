@@ -11,4 +11,7 @@
 9         28         30          15         10       0            130       10        1.2         1.8         2.0              1.5
 //Class   Strength   Dexterity   Vitality   Energy   Leadership   MaxLife   MaxMana   LevelLife   LevelMana   VitalityToLife   EnergyToMana
 10        20         18          20         25       0            100       80        1.0         2.0         2.0              2.0
+//Class   Strength   Dexterity   Vitality   Energy   Leadership   MaxLife   MaxMana   LevelLife   LevelMana   VitalityToLife   EnergyToMana
+11        19         19          15         30       0            70        70        1.2         1.8         2.0              1.5
+12        18         18          19         30       0            88        75        1.2         1.8         2.0              1.5
 end

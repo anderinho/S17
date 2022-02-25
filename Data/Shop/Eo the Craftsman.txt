@@ -1,3 +1,4 @@
+0
 //Index   Level   Count   Option1   Option2   Option3   NewOption   Comment
 3597      3       0       0         1         1         0           //Spirit Helm
 4109      3       0       0         1         1         0           //Spirit Armor

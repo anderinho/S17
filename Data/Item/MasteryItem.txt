@@ -19,6 +19,21 @@
 78        0       4       //Blue Eye Sword
 79        0       4       //Blue Eye Magic Sword
 80        0       4       //Blue Eye Claw
+81        0       5       //Silver Heart Sword
+82        0       5       //Silver Heart Magic Sword
+83        0       5       //Silver Heart Claws
+84        0       5       //Silver Heart Short Sword
+85        0       6       //Manticore Sword
+86        0       6       //Manticore Magic Sword
+87        0       6       //Manticore Claws
+88        0       6       //Manticore Short Sword
+89        0       0       //Blood Angel Magic Two Hand Swor
+90        0       1       //Dark Angel Magic Two Hand Sword
+91        0       2       //Holy Angel Magic Two Hand Sword
+92        0       3       //Soul Magic Two Hand Sword
+93        0       4       //Blue Eye Magic Two Hand Sword
+94        0       5       //Silver Heart Magic Two Hand Swo
+95        0       6       //Manticore Magic Two-Handed Swor
 1046      0       0       //Bloodangel Scepter
 1050      0       1       //Darkangel Scepter
 1051      0       2       //Holyangel Scepter
@@ -28,12 +43,18 @@
 1062      0       2       //Holyangel Rune Mace
 1063      0       3       //Soul Rune Mace
 1064      0       4       //Blue Eye Scepter
-1065      0       4       //Blue Eye Mace
+1065      0       4       //Blue Eye Rune Mace
+1066      0       5       //Silver Heart Scepter
+1067      0       5       //Silver Heart Rune Mace
+1068      0       6       //Manticore Scepter
+1069      0       6       //Manticore Rune Mace
 1555      0       0       //Bloodangel Lance
 1560      0       1       //Darkangel Lance
 1561      0       2       //Holyangel Lance
 1564      0       3       //Soul Lance
 1565      0       4       //Blue Eye Lance
+1566      0       5       //Silver Heart Lance
+1567      0       6       //Manticore Lance
 2076      0       0       //Bloodangel Bow
 2079      0       1       //Darkangel Bow
 2082      0       0       //Bloodangel Quiver
@@ -44,6 +65,17 @@
 2087      0       3       //Soul Quiver
 2088      0       4       //Blue Eye Bow
 2089      0       4       //Blue Eye Quiver
+2096      0       0       //Bloodangel Magic Gun
+2097      0       1       //Darkangel Magic Gun
+2098      0       2       //Holyangel Magic Gun
+2099      0       3       //Soul Magic Gun
+2100      0       4       //Blue Eye Magic Gun
+2101      0       5       //Silver Heart Magic Gun
+2102      0       6       //Manticore Magic Gun
+2104      0       5       //Silver Heart Bow
+2105      0       5       //Silver Heart Arrow Box
+2106      0       6       //Manticore Bow
+2107      0       6       //Manticore Quiver
 2601      0       0       //Bloodangel Staff
 2603      0       0       //Bloodangel Stick
 2611      0       1       //Darkangel Staff
@@ -59,6 +91,31 @@
 2621      0       4       //Blue Eye Staff
 2622      0       4       //Blue Eye Stick
 2623      0       4       //Blue Eye Book
+2624      0       5       //Silver Heart Staff
+2625      0       5       //Silver Heart Stick
+2626      0       5       //Silver Heart Book
+2633      0       0       //Blood Angel Magic Book
+2634      0       1       //Dark Angel Magic Book
+2635      0       2       //Holy Angel Magic Book
+2636      0       3       //Soul Magic Book
+2637      0       4       //Blue Eye Magic Book
+2638      0       5       //Silver Heart Magic Book
+2646      0       0       //Blood Angel Orb
+2647      0       1       //Dark Angel Orb
+2648      0       2       //Holy Angel Orb
+2649      0       3       //Soul Orb
+2650      0       4       //Blue Eye Orb
+2651      0       5       //Silver Heart Orb
+2655      0       6       //Manticore Staff
+2656      0       6       //Manticore Stick
+2657      0       6       //Manticore Book
+3116      0       0       //Bloodangel Shield
+3117      0       1       //Darkangel Shield
+3118      0       2       //Holyangel Shield
+3119      0       3       //Soul Shield
+3120      0       4       //Blue Eye Shield
+3121      0       5       //Silver Heart Shield
+3122      0       6       //Manticore Shield
 3682      1       0       //Bloodangel Knight Helm
 3683      1       0       //Bloodangel Wizard Helm
 3684      1       0       //Bloodangel Elf Helm (A)
@@ -108,7 +165,8 @@
 3765      1       1       //Darkangel Slayer Helm
 3766      1       2       //Holyangel Slayer Helm
 3767      1       3       //Soul Slayer Helm
-3768      1       4       //Blue Eye Sayer Helm
+3768      1       4       //Blue Eye Slayer Helm
+3769      1       5       //Silverheart Slayer Helm
 3773      1       5       //Silverheart Knight Helm
 3774      1       5       //Silver Heart Wizard Helm
 3775      1       5       //Silverheart Elf Helm (A)
@@ -118,6 +176,56 @@
 3780      1       5       //Silverheart Lancer Helm
 3781      1       5       //Silverheart Elf Helm (B)
 3783      1       5       //Silverheart Runist Helm
+3784      1       0       //Bloodangel Knight Helm (Convict
+3785      1       1       //Darkangel Knight Helm (Convicti
+3786      1       2       //Holyangel Knight Helm (Convicti
+3787      1       3       //Soul Knight Helm (Conviction)
+3788      1       4       //Blue Eight Knight Helm (Convict
+3789      1       5       //Silverheart Knight Helm (Convic
+3796      1       0       //Bloodangel Gun Crusher Helmet
+3797      1       1       //Darkangel Gun Crusher Helmet
+3798      1       2       //Holyangel Gun Crusher Helmet
+3799      1       3       //Soul Gun Crusher Helmet
+3800      1       4       //Blue Eye Gun Crusher Helmet
+3801      1       5       //Silver Heart Gun Crusher Helmet
+3805      1       6       //Manticore Knight Helm
+3806      1       6       //Manticore Wizard Helmet
+3807      1       6       //Manticore Elf Helmet
+3808      1       6       //Manticore Summoner Helmet
+3810      1       6       //Manticore Lord Helmet
+3811      1       6       //Manticore Fighter Helmet
+3812      1       6       //Manticore Lancer Helmet
+3813      1       6       //Manticore Elf Helmet
+3815      1       6       //Manticore Rune Wizard Helm
+3816      1       6       //Manticore Slayer Helmet
+3817      1       6       //Manticore Knight Helm (Convicti
+3818      1       6       //Manticore Gun Crusher Helmet
+3825      1       0       //Blood Angel Light Wizard Helmet
+3826      1       1       //Dark Angel Light Wizard Helmet
+3827      1       2       //Holy Angel Light Wizard Helmet
+3828      1       3       //Soul White Wizard Helmet
+3829      1       4       //Blue Eye White Wizard Helmet
+3830      1       5       //Silver Heart White Wizard Helme
+3831      1       6       //Manticore White Wizard Helmet
+3843      1       0       //Blood Angel Mage Helmet
+3844      1       1       //Dark Angel Mage Helmet
+3845      1       2       //Holy Angel Mage Helmet
+3846      1       3       //Soul Mage Helmet
+3847      1       4       //Blue Eye Mage Helmet
+3848      1       5       //Silver Heart Mage Helmet
+3849      1       6       //Manticore Mage Helmet
+3854      1       7       //Brilliant Knight Helmet
+3855      1       7       //Brilliant Wizard Helmet
+3856      1       7       //Brilliant Elf Helmet
+3857      1       7       //Brilliant Summoner Helmet
+3859      1       7       //Brilliant Lord Helmet
+3860      1       7       //Brilliant Fighter Helmet
+3861      1       7       //Brilliant Lancer Helmet
+3862      1       7       //Brilliant Elf Helmet
+3864      1       7       //Brilliant Rune Wizard Helmet
+3865      1       7       //Brilliant Slayer Helmet
+3866      1       7       //Brilliant Knight Helmet (Belief
+3867      1       7       //Brilliant Gun Crasher Helmet
 4194      1       0       //Bloodangel Knight Armor
 4195      1       0       //Bloodangel Wizard Armor
 4196      1       0       //Bloodangel Elf Armor (A)
@@ -130,12 +238,12 @@
 4203      1       3       //Awakening Soul Wizard Armor
 4204      1       3       //Awakening Soul Elf Armor (A)
 4205      1       3       //Awakening Soul Summoner Armor
-4206      1       3       //Awakening Soul Magic Armor (A)
+4206      1       3       //Awakening Soul Magic Arm (A)
 4207      1       3       //Awakening Soul Lord Armor
 4208      1       3       //Awakening Soul Fighter Armor
 4209      1       3       //Awakening Soul Lancer Armor
 4210      1       3       //Awakening Soul Elf Armor (B)
-4211      1       3       //Awakening Soul Magic Armor (B)
+4211      1       3       //Awakening Soul Magic Arm (B)
 4218      1       0       //Bloodangel Runist Armor
 4219      1       1       //Darkangel Runist Armor
 4223      1       2       //Holyangel Runist Armor
@@ -171,13 +279,14 @@
 4265      1       4       //Blue Eye Lord Armor
 4266      1       4       //Blue Eye Fighter Armor
 4267      1       4       //Blue Eye Lancer Armor
-4268      1       4       //Blue Eye Elf Armor  (B)
+4268      1       4       //Blue Eye Elf Armor (B)
 4269      1       4       //Blue Eye Magic Armor (B)
 4276      1       0       //Bloodangel Slayer Armor
 4277      1       1       //Darkangel Slayer Armor
 4278      1       2       //Holyangel Slayer Armor
 4279      1       3       //Soul Slayer Armor
 4280      1       4       //Blue Eye Slayer Armor
+4281      1       5       //Silverheart Slayer Armor
 4285      1       5       //Silverheart Knight Armor
 4286      1       5       //Silverheart Wizard Armor
 4287      1       5       //Silverheart Elf Armor (A)
@@ -189,6 +298,60 @@
 4293      1       5       //Silverheart Elf Armor (B)
 4294      1       5       //Silverheart Magic Armor (B)
 4295      1       5       //Silverheart Runist Armor
+4296      1       0       //Bloodangel Knight Armor (Convic
+4297      1       1       //Darkangel Knight Armor (Convict
+4298      1       2       //Holyangel Knight Armor (Convict
+4299      1       3       //Soul Knight Armor (Conviction)
+4300      1       4       //Blue Eight Night Armor (Convict
+4301      1       5       //Silverheart Knight Armor (Convi
+4308      1       0       //Bloodangel Gun Crasher Armor
+4309      1       1       //Darkangel Gun Crasher Armor
+4310      1       2       //Holyangel Gun Crusher Armor
+4311      1       3       //Soul Gun Crusher Armor
+4312      1       4       //Blue Eye Gun Crusher Armor
+4313      1       5       //Silver Heart Gun Crusher Armor
+4317      1       6       //Manticore Knight Armor
+4318      1       6       //Manticore Wizard Armor
+4319      1       6       //Manticore Elf Armor
+4320      1       6       //Manticore Summoner Armor
+4321      1       6       //Manticore Magic Armor
+4322      1       6       //Manticore Lord Armor
+4323      1       6       //Manticore Fighter Armor
+4324      1       6       //Manticore Lancer Armor
+4325      1       6       //Manticore Elf Armor
+4326      1       6       //Manticore Magic Armor
+4327      1       6       //Manticore Rune Wizard Armor
+4328      1       6       //Manticore Slayer Armor
+4329      1       6       //Manticore Knight Armor (Convict
+4330      1       6       //Manticore Gun Crusher Armor
+4337      1       0       //Blood Angel Light Wizard Armor
+4338      1       1       //Dark Angel Light Wizard Armor
+4339      1       2       //Holy Angel Light Wizard Armor
+4340      1       3       //Soul White Wizard Armor
+4341      1       4       //Blue Eye White Wizard Armor
+4342      1       5       //Silver Heart White Wizard Armor
+4343      1       6       //Manticore White Wizard Armor
+4355      1       0       //Blood Angel Mage Armor
+4356      1       1       //Dark Angel Mage Armor
+4357      1       2       //Holy Angel Mage Armor
+4358      1       3       //Soul Mage Armor
+4359      1       4       //Blue Eye Mage Armor
+4360      1       5       //Silver Heart Mage Armor
+4361      1       6       //Manticore Mage Armor
+4366      1       7       //Brilliant Knight Armor
+4367      1       7       //Brilliant Wizard Armor
+4368      1       7       //Brilliant Elf Armor
+4369      1       7       //Brilliant Summoner Armor
+4370      1       7       //Brilliant Magic Armor
+4371      1       7       //Brilliant Lord Armor
+4372      1       7       //Brilliant Fighter Armor
+4373      1       7       //Brilliant Lancer Armor
+4374      1       7       //Brilliant Elf Armor
+4375      1       7       //Brilliant Magic Armor
+4376      1       7       //Brilliant Rune Wizard Armor
+4377      1       7       //Brilliant Slayer Armor
+4378      1       7       //Brilliant Knight Armor (Belief)
+4379      1       7       //Brilliant Gun Crasher Armor
 4706      1       0       //Bloodangel Knight Pants
 4707      1       0       //Bloodangel Wizard Pants
 4708      1       0       //Bloodangel Elf Pants (A)
@@ -249,6 +412,7 @@
 4790      1       2       //Holyangel Slayer Pants
 4791      1       3       //Soul Slayer Pants
 4792      1       4       //Blue Eye Slayer Pants
+4793      1       5       //Silverheart Slayer Pants
 4797      1       5       //Silverheart Knight Pants
 4798      1       5       //Silverheart Wizard Pants
 4799      1       5       //Silverheart Elf Pants (A)
@@ -256,10 +420,64 @@
 4801      1       5       //Silverheart Magic Pants (A)
 4802      1       5       //Silverheart Lord Pants
 4803      1       5       //Silverheart Fighter Pants
-4804      1       5       //Silverheart LancerPants
+4804      1       5       //Silverheart Lancer Pants
 4805      1       5       //Silverheart Elf Pants (B)
 4806      1       5       //Silverheart Magic Pants (B)
 4807      1       5       //Silverheart Runist Pants
+4808      1       0       //Blood Angel Knight Pants (Convi
+4809      1       1       //Darkangel Knight Pants (Convict
+4810      1       2       //Holy Angel Knight Pants (Convic
+4811      1       3       //Soul Knight Pants (Conviction)
+4812      1       4       //Blue Eye Knight Pants (Convicti
+4813      1       5       //Silverheart Knight Pants (Convi
+4820      1       0       //Bloodangel Gun Crusher Pants
+4821      1       1       //Darkangel Gun Crusher Pants
+4822      1       2       //Holyangel Gun Crusher Pants
+4823      1       3       //Soul Gun Crusher Pants
+4824      1       4       //Blue Eye Gun Crusher Pants
+4825      1       5       //Silver Heart Gun Crusher Pants
+4829      1       6       //Manticore Knight Pants
+4830      1       6       //Manticore Wizard Pants
+4831      1       6       //Manticore Elf Pants
+4832      1       6       //Manticore Summoner Pants
+4833      1       6       //Manticore Magic Pants
+4834      1       6       //Manticore Lord Pants
+4835      1       6       //Manticore Fighter Pants
+4836      1       6       //Manticore Lancer Pants
+4837      1       6       //Manticore Elf Pants
+4838      1       6       //Manticore Magic Pants
+4839      1       6       //Manticore Rune Wizard Pants
+4840      1       6       //Manticore Slayer Pants
+4841      1       6       //Manticore Knight Pants (Convict
+4842      1       6       //Manticore Gun Crusher Pants
+4849      1       0       //Blood Angel Light Wizard Pants
+4850      1       1       //Dark Angel Light Wizard Pants
+4851      1       2       //Holy Angel Light Wizard Pants
+4852      1       3       //Soul White Wizard Pants
+4853      1       4       //Blue Eye White Wizard Pants
+4854      1       5       //Silver Heart White Wizard Pants
+4855      1       6       //Manticore White Wizard Pants
+4867      1       0       //Blood Angel Mage Pants
+4868      1       1       //Dark Angel Mage Pants
+4869      1       2       //Holy Angel Mage Pants
+4870      1       3       //Soul Mage Pants
+4871      1       4       //Blue Eye Mage Pants
+4872      1       5       //Silver Heart Mage Pants
+4873      1       6       //Manticore Mage Pants
+4878      1       7       //Brilliant Knight Pants
+4879      1       7       //Brilliant Wizard Pants
+4880      1       7       //Brilliant Elf Pants
+4881      1       7       //Brilliant Summoner Pants
+4882      1       7       //Brilliant Magic Pants
+4883      1       7       //Brilliant Lord Pants
+4884      1       7       //Brilliant Fighter Pants
+4885      1       7       //Brilliant Lancer Pants
+4886      1       7       //Brilliant Elf Pants
+4887      1       7       //Brilliant Magic Pants
+4888      1       7       //Brilliant Rune Wizard Pants
+4889      1       7       //Brilliant Slayer Pants
+4890      1       7       //Brilliant Knight Pants (Belief)
+4891      1       7       //Brilliant Gun Crasher Pants
 5218      1       0       //Bloodangel Knight Gloves
 5219      1       0       //Bloodangel Wizard Gloves
 5220      1       0       //Bloodangel Elf Gloves (A)
@@ -315,6 +533,7 @@
 5302      1       2       //Holyangel Slayer Gloves
 5303      1       3       //Soul Slayer Gloves
 5304      1       4       //Blue Eye Slayer Gloves
+5305      1       5       //Silver Heart Slayer Gloves
 5309      1       5       //Silverheart Knight Gloves
 5310      1       5       //Silverheart Wizard Gloves
 5311      1       5       //Silverheart Elf Gloves (A)
@@ -325,6 +544,58 @@
 5317      1       5       //Silverheart Elf Gloves (B)
 5318      1       5       //Silverheart Magic Gloves (B)
 5319      1       5       //Silverheart Runist Gloves
+5320      1       0       //Bloodangel Knight Gloves (Convi
+5321      1       1       //Darkangel Knight Gloves (Convic
+5322      1       2       //Holyangel Knight Gloves (Convic
+5323      1       3       //Soul Knight Gloves (Conviction)
+5324      1       4       //Blue Knight Gloves (Conviction)
+5325      1       5       //Silverheart Knight Gloves (Conv
+5332      1       0       //Bloodangel Gun Crusher Gloves
+5333      1       1       //Darkangel Gun Crusher Gloves
+5334      1       2       //Holyangel Gun Crusher Gloves
+5335      1       3       //Soul Gun Crusher Gloves
+5336      1       4       //Blue Eye Gun Crusher Gloves
+5337      1       5       //Silver Heart Gun Crasher Gloves
+5341      1       6       //Manticore Knight Gloves
+5342      1       6       //Manticore Wizard Gloves
+5343      1       6       //Manticore Elf Gloves
+5344      1       6       //Manticore Summoner Gloves
+5345      1       6       //Manticore Magic Gloves
+5346      1       6       //Manticore Lord Gloves
+5348      1       6       //Manticore Lancer Gloves
+5349      1       6       //Manticore Elf Gloves
+5350      1       6       //Manticore Magic Gloves
+5351      1       6       //Manticore Rune Wizard Gloves
+5352      1       6       //Manticore Slayer Gloves
+5353      1       6       //Manticore Knight Gloves (Convic
+5354      1       6       //Manticore Gun Crusher Gloves
+5361      1       0       //Blood Angel Light Wizard Gloves
+5362      1       1       //Dark Angel Light Wizard Gloves
+5363      1       2       //Holy Angel Light Wizard Gloves
+5364      1       3       //Soul White Wizard Gloves
+5365      1       4       //Blue Eye White Wizard Gloves
+5366      1       5       //Silver Heart White Wizard Glove
+5367      1       6       //Manticore White Wizard Gloves
+5379      1       0       //Blood Angel Mage Gloves
+5380      1       1       //Dark Angel Mage Gloves
+5381      1       2       //Holy Angel Mage Gloves
+5382      1       3       //Soul Mage Gloves
+5383      1       4       //Blue Eye Mage Gloves
+5384      1       5       //Silver Heart Mage Gloves
+5385      1       6       //Manticore Mage Gloves
+5390      1       7       //Brilliant Knight Gloves
+5391      1       7       //Brilliant Wizard Gloves
+5392      1       7       //Brilliant Elf Gloves
+5393      1       7       //Brilliant Summoner Gloves
+5394      1       7       //Brilliant Magic Gloves
+5395      1       7       //Brilliant Lord Gloves
+5397      1       7       //Brilliant Lancer Gloves
+5398      1       7       //Brilliant Elf Gloves
+5399      1       7       //Brilliant Magic Gloves
+5400      1       7       //Brilliant Rune Wizard Gloves
+5401      1       7       //Brilliant Slayer Gloves
+5402      1       7       //Brilliant Knight Gloves (Belief
+5403      1       7       //Brilliant Gun Crasher Gloves
 5730      1       0       //Bloodangel Knight Boots
 5731      1       0       //Bloodangel Wizard Boots
 5732      1       0       //Bloodangel Elf Boots (A)
@@ -385,6 +656,7 @@
 5814      1       2       //Holyangel Slayer Boots
 5815      1       3       //Soul Slayer Boots
 5816      1       4       //Blue Eye Slayer Boots
+5817      1       5       //Silverheart Slayer Boots
 5821      1       5       //Silverheart Knight Boots
 5822      1       5       //Silverheart Wizard Boots
 5823      1       5       //Silverheart Elf Boots (A)
@@ -396,175 +668,58 @@
 5829      1       5       //Silverheart Elf Boots (B)
 5830      1       5       //Silverheart Magic Boots (B)
 5831      1       5       //Silverheart Runist Boots
-
-//Index   Group   Value   Comment
-0,81      0       5       //SH Sword
-0,82      0       5       //SH Magic Sword
-0,83      0       5       //SH Claw
-0,84      0       5       //SH Short Sword
-
-2,42      0       5       //SH Scepter
-2,43      0       5       //SH Rune Mace
-
-3,30      0       5       //SH Lance
-
-
-4,48      0       0       //BA GC Gun
-4,49      0       1       //DA GC Gun
-4,50      0       2       //HA GC Gun
-4,51      0       3       //AS GC Gun
-
-
-4,56      0       5       //SH Bow
-4,57      0       5       //SH Quiver
-
-
-5,64      0       5       //SH Staff
-5,65      0       5       //SH Stick
-5,66      0       5       //SH Book
-
-
-6,44      1       0       //BA Shield
-6,45      1       1       //DA Shield
-6,46      1       2       //HA Shield
-6,47      1       3       //AS Shield
-6,48      1       4       //BE Shield
-6,49      1       5       //SH Shield
-
-
-
-7,212     1       0       //BA GC
-8,212     1       0       //BA GC
-9,212     1       0       //BA GC
-10,212    1       0       //BA GC
-11,212    1       0       //BA GC
-
-7,213     1       1       //DA GC
-8,213     1       1       //DA GC
-9,213     1       1       //DA GC
-10,213    1       1       //DA GC
-11,213    1       1       //DA GC
-
-7,214     1       2       //HA GC
-8,214     1       2       //HA GC
-9,214     1       2       //HA GC
-10,214    1       2       //HA GC
-11,214    1       2       //HA GC
-
-7,215     1       3       //AS GC
-8,215     1       3       //AS GC
-9,215     1       3       //AS GC
-10,215    1       3       //AS GC
-11,215    1       3       //AS GC
-
-
-7,200     1       0       //BA DK (B)
-8,200     1       0       //BA DK (B)
-9,200     1       0       //BA DK (B)
-10,200    1       0       //BA DK (B)
-11,200    1       0       //BA DK (B)
-
-
-
-7,201     1       1       //DA DK (B)
-8,201     1       1       //DA DK (B)
-9,201     1       1       //DA DK (B)
-10,201    1       1       //DA DK (B)
-11,201    1       1       //DA DK (B)
-
-
-7,202     1       2       //HA DK (B)
-8,202     1       2       //HA DK (B)
-9,202     1       2       //HA DK (B)
-10,202    1       2       //HA DK (B)
-11,202    1       2       //HA DK (B)
-
-7,203     1       3       //AS DK (B)
-8,203     1       3       //AS DK (B)
-9,203     1       3       //AS DK (B)
-10,203    1       3       //AS DK (B)
-11,203    1       3       //AS DK (B)
-
-7,204     1       4       //BE DK (B)
-8,204     1       4       //BE DK (B)
-9,204     1       4       //BE DK (B)
-10,204    1       4       //BE DK (B)
-11,204    1       4       //BE DK (B)
-
-7,205     1       5       //SH DK (B)
-8,205     1       5       //SH DK (B)
-9,205     1       5       //SH DK (B)
-10,205    1       5       //SH DK (B)
-11,205    1       5       //SH DK (B)
-
-
-7,221     1       6       //New DK
-7,222     1       6       //New DW
-7,223     1       6       //New NE (A)
-7,224     1       6       //New SU
-7,225     1       6       //New MG (A)
-7,226     1       6       //New DL
-7,227     1       6       //New RF
-7,228     1       6       //New GL
-7,229     1       6       //New NE (B)
-7,230     1       6       //New MG (B)
-7,231     1       6       //New RW
-7,232     1       6       //New SL
-7,233     1       6       //New DK (B)
-
-8,221     1       6       //New DK
-8,222     1       6       //New DW
-8,223     1       6       //New NE (A)
-8,224     1       6       //New SU
-8,225     1       6       //New MG (A)
-8,226     1       6       //New DL
-8,227     1       6       //New RF
-8,228     1       6       //New GL
-8,229     1       6       //New NE (B)
-8,230     1       6       //New MG (B)
-8,231     1       6       //New RW
-8,232     1       6       //New SL
-8,233     1       6       //New DK (B)
-
-9,221     1       6       //New DK
-9,222     1       6       //New DW
-9,223     1       6       //New NE (A)
-9,224     1       6       //New SU
-9,225     1       6       //New MG (A)
-9,226     1       6       //New DL
-9,227     1       6       //New RF
-9,228     1       6       //New GL
-9,229     1       6       //New NE (B)
-9,230     1       6       //New MG (B)
-9,231     1       6       //New RW
-9,232     1       6       //New SL
-9,233     1       6       //New DK (B)
-
-10,221    1       6       //New DK
-10,222    1       6       //New DW
-10,223    1       6       //New NE (A)
-10,224    1       6       //New SU
-10,225    1       6       //New MG (A)
-10,226    1       6       //New DL
-10,227    1       6       //New RF
-10,228    1       6       //New GL
-10,229    1       6       //New NE (B)
-10,230    1       6       //New MG (B)
-10,231    1       6       //New RW
-10,232    1       6       //New SL
-10,233    1       6       //New DK (B)
-
-11,221    1       6       //New DK
-11,222    1       6       //New DW
-11,223    1       6       //New NE (A)
-11,224    1       6       //New SU
-11,225    1       6       //New MG (A)
-11,226    1       6       //New DL
-11,227    1       6       //New RF
-11,228    1       6       //New GL
-11,229    1       6       //New NE (B)
-11,230    1       6       //New MG (B)
-11,231    1       6       //New RW
-11,232    1       6       //New SL
-11,233    1       6       //New DK (B)
+5832      1       0       //Bloodangel Knight Boots (Convic
+5833      1       1       //Darkangel Knight Boots (Convict
+5834      1       2       //Hollyangel Knight Boots (Convic
+5835      1       3       //Soul Knight Boots (Conviction)
+5836      1       4       //Blue Knight Boots (Conviction)
+5837      1       5       //Silver Heart Knight Boots (Conv
+5844      1       0       //Bloodangel Gun Crasher Boots
+5845      1       1       //Darkangel Gun Crasher Boots
+5846      1       2       //Holyangel Gun Crasher Boots
+5847      1       3       //Soul Gun Crasher Boots
+5848      1       4       //Blue Eye Gun Crusher Boots
+5849      1       5       //Silver Heart Gun Crasher Boots
+5853      1       6       //Manticore Knight Boots
+5854      1       6       //Manticore Wizard Boots
+5855      1       6       //Manticore Elf Boots
+5856      1       6       //Manticore Summoner Boots
+5857      1       6       //Manticore Magic Boots
+5858      1       6       //Manticore Lord Boots
+5859      1       6       //Manticore Fighter Boots
+5860      1       6       //Manticore Lancer Boots
+5861      1       6       //Manticore Elf Boots
+5862      1       6       //Manticore Magic Boots
+5863      1       6       //Manticore Rune Wizard Boots
+5864      1       6       //Manticore Slayer Boots
+5865      1       6       //Manticore Knight Boots (Convict
+5866      1       6       //Manticore Gun Crasher Boots
+5873      1       0       //Blood Angel Light Wizard Boots
+5874      1       1       //Dark Angel Light Wizard Boots
+5875      1       2       //Holy Angel Light Wizard Boots
+5876      1       3       //Soul White Wizard Boots
+5877      1       4       //Blue Eye White Wizard Boots
+5878      1       5       //Silver Heart White Wizard Boots
+5879      1       6       //Manticore White Wizard Boots
+5891      1       0       //Blood Angel Mage Boots
+5892      1       1       //Dark Angel Mage Boots
+5893      1       2       //Holy Angel Mage Boots
+5894      1       3       //Soul Mage Boots
+5895      1       4       //Blue Eye Mage Boots
+5896      1       5       //Silver Heart Mage Boots
+5897      1       6       //Manticore Mage Boots
+5902      1       7       //Brilliant Knight Boots
+5903      1       7       //Brilliant Wizard Boots
+5904      1       7       //Brilliant Elf Boots
+5905      1       7       //Brilliant Summoner Boots
+5906      1       7       //Brilliant Magic Boots
+5907      1       7       //Brilliant Lord Boots
+5908      1       7       //Brilliant Fighter Boots
+5909      1       7       //Brilliant Lancer Boots
+5910      1       7       //Brilliant Elf Boots
+5911      1       7       //Brilliant Magic Boots
+5912      1       7       //Brilliant Rune Wizard Boots
+5913      1       7       //Brilliant Slayer Boots
+5914      1       7       //Brilliant Knight Boots (Belief)
+5915      1       7       //Brilliant Gun Crasher Boots
 end

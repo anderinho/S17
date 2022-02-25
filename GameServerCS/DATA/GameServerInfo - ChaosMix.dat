@@ -490,3 +490,51 @@ IceDragonMixRate5_AL0 = 100
 IceDragonMixRate5_AL1 = 100
 IceDragonMixRate5_AL2 = 100
 IceDragonMixRate5_AL3 = 100
+
+;==================================================
+; Blood Earring Mix Settings
+;==================================================
+BloodEarringMixRate1_AL0 = 60
+BloodEarringMixRate1_AL1 = 60
+BloodEarringMixRate1_AL2 = 60
+BloodEarringMixRate1_AL3 = 60
+BloodEarringMixRate2_AL0 = 70
+BloodEarringMixRate2_AL1 = 70
+BloodEarringMixRate2_AL2 = 70
+BloodEarringMixRate2_AL3 = 70
+BloodEarringMixRate3_AL0 = 80
+BloodEarringMixRate3_AL1 = 80
+BloodEarringMixRate3_AL2 = 80
+BloodEarringMixRate3_AL3 = 80
+BloodEarringMixRate4_AL0 = 90
+BloodEarringMixRate4_AL1 = 90
+BloodEarringMixRate4_AL2 = 90
+BloodEarringMixRate4_AL3 = 90
+BloodEarringMixRate5_AL0 = 100
+BloodEarringMixRate5_AL1 = 100
+BloodEarringMixRate5_AL2 = 100
+BloodEarringMixRate5_AL3 = 100
+
+;==================================================
+; Pierce Lion Mix Settings
+;==================================================
+PierceLionMixRate1_AL0 = 60
+PierceLionMixRate1_AL1 = 60
+PierceLionMixRate1_AL2 = 60
+PierceLionMixRate1_AL3 = 60
+PierceLionMixRate2_AL0 = 70
+PierceLionMixRate2_AL1 = 70
+PierceLionMixRate2_AL2 = 70
+PierceLionMixRate2_AL3 = 70
+PierceLionMixRate3_AL0 = 80
+PierceLionMixRate3_AL1 = 80
+PierceLionMixRate3_AL2 = 80
+PierceLionMixRate3_AL3 = 80
+PierceLionMixRate4_AL0 = 90
+PierceLionMixRate4_AL1 = 90
+PierceLionMixRate4_AL2 = 90
+PierceLionMixRate4_AL3 = 90
+PierceLionMixRate5_AL0 = 100
+PierceLionMixRate5_AL1 = 100
+PierceLionMixRate5_AL2 = 100
+PierceLionMixRate5_AL3 = 100

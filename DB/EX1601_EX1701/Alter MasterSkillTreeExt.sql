@@ -1,0 +1,1 @@
+ALTER TABLE MasterSkillTreeExt ALTER COLUMN MasterSkill varbinary(1080) NULL

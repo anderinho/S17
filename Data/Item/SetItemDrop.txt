@@ -36,6 +36,9 @@
 3702      10000      2            //Rune Legendary Helmet
 3703      10000      2            //Kenaz Hood
 3761      10000      2            //Nightwing Helm
+3793      10000      2            //Frere Helmet
+3822      10000      2            //Magic Flare Helmet
+3840      10000      2            //Noble Pixie Helmet
 4096      10000      2            //Bronze Armor
 4097      10000      2            //Dragon Armor
 4098      10000      2            //Pad Armor
@@ -61,6 +64,9 @@
 4214      10000      2            //Rune Legendary Armor
 4215      10000      2            //Kanaz Armor
 4273      10000      2            //Nightwing Armor
+4305      10000      2            //Frere Armor
+4334      10000      2            //Magic Flare Armor
+4352      10000      2            //Noble Pixie Armor
 4608      10000      2            //Bronze Pants
 4609      10000      2            //Dragon Pants
 4610      10000      2            //Pad Pants
@@ -86,6 +92,9 @@
 4726      10000      2            //Rune Legendary Pants
 4727      10000      2            //Kanaz Pants
 4785      10000      2            //Night Wing Pants
+4817      10000      2            //Frere Pants
+4846      10000      2            //Magic Flare Pants
+4864      10000      2            //Noble Pixie Pants
 5120      10000      2            //Bronze Gloves
 5121      10000      2            //Dragon Gloves
 5122      10000      2            //Pad Gloves
@@ -109,6 +118,9 @@
 5238      10000      2            //Rune Legendary Gloves
 5239      10000      2            //Kanaz Gloves
 5297      10000      2            //Nightwing Gloves
+5329      10000      2            //Frere Gloves
+5358      10000      2            //Magic Flare Gloves
+5376      10000      2            //Noble Pick Market
 5632      10000      2            //Bronze Boots
 5633      10000      2            //Dragon Boots
 5634      10000      2            //Pad Boots
@@ -133,6 +145,9 @@
 5750      10000      2            //Rune Legendary Boots
 5751      10000      2            //Kanaz Boots
 5809      10000      2            //Night Wing Boots
+5841      10000      2            //Frere Boots
+5870      10000      2            //Magic Flare Boots
+5888      10000      2            //Noble Pixie Boots
 6664      10000      2            //Ring of Ice
 6665      10000      2            //Ring of Poison
 6668      10000      2            //Pendant of Lighting

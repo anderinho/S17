@@ -109,4 +109,8 @@
 //Index   NonPK   ViewRange   ExperienceRate   ItemDropRate   ExcItemDropRate   SetItemDropRate   SocketItemDrop   GuildWarEnable   HelperEnable   TradeEnable   PShopEnable   DuelEnable   GensBattle   Comment
 132       *       12          100              100            1000              0                 0                1                1              1             1             1            0            //Crismon Icarus
 133       *       12          100              100            1000              0                 0                1                1              1             1             1            0            //Ardil Temple
+//Index   NonPK   ViewRange   ExperienceRate   ItemDropRate   ExcItemDropRate   SetItemDropRate   SocketItemDrop   GuildWarEnable   HelperEnable   TradeEnable   PShopEnable   DuelEnable   GensBattle   Comment
+134       *       12          100              100            1000              0                 0                1                1              1             1             1            0            //Aida Gray
+135       *       12          100              100            1000              0                 0                1                1              1             1             1            0            //Old Kethotum
+136       *       12          100              100            1000              0                 0                1                1              1             1             1            0            //Blaze Kethotum
 end

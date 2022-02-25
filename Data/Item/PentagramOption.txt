@@ -1,26 +1,29 @@
 0
-//Index   Option0   Option1   Option2   Comment
-6344      0         0         0         //Muren's Book of Magic
-6345      0         0         0         //Scroll of Etramu
-6346      0         0         0         //Lorencia Knights' Iron Shield
-6347      2         0         0         //Iron Shield of the Magic
-6348      0         0         0         //Hero Elixir
-6349      3         0         0         //Brave Hero Elixir
-6350      0         0         0         //Gladiator's Dagger
-6351      1         0         0         //Merciless Gladiator's Dagger
-6352      4         3         0         //Kundun's Madness Blade
-6353      5         3         0         //Kundun's Magic Spell Scroll
-6354      4         6         0         //Empire Guardians' Stronghold
-6355      5         6         0         //Ancient Icarus Scroll
-6356      7         3         0         //Arca's Prophecy
-6357      7         4         0         //Antonia's Sword
-6358      7         5         0         //Kundun's Seal Scroll
-6359      8         0         0         //Pentagram for Beginners
-6360      2         0         0         //Iron Shield (Bound)
-6361      9         0         0         //Thoughtful Sage's Jewel
-6450      10        11        12        //Runedil's Goldentune Harp
-6451      10        13        14        //Lemuria's Orb
-6452      15        16        17        //Norrwen's Bloodstring Lyra
+//Index   Grade   Option0   Option1   Option2   Comment
+6344      0       0         0         0         //Muren's Book of Magic
+6345      0       0         0         0         //Scroll of Etramu
+6346      0       0         0         0         //Lorencia Knights' Iron Shield
+6347      0       2         0         0         //Iron Shield of the Magic
+6348      0       0         0         0         //Hero Elixir
+6349      0       3         0         0         //Brave Hero Elixir
+6350      0       0         0         0         //Gladiator's Dagger
+6351      0       1         0         0         //Merciless Gladiator's Dagger
+6352      1       4         3         0         //Kundun's Madness Blade
+6353      1       5         3         0         //Kundun's Magic Spell Scroll
+6354      1       4         6         0         //Empire Guardians' Stronghold
+6355      1       5         6         0         //Ancient Icarus Scroll
+6356      2       7         3         0         //Arca's Prophecy
+6357      2       7         4         0         //Antonia's Sword
+6358      2       7         5         0         //Kundun's Seal Scroll
+6359      0       8         0         0         //Pentagram for Beginners
+6360      0       2         0         0         //Iron Shield (Bound)
+6361      1       9         0         0         //Thoughtful Sage's Jewel
+6362      1       5         3         0         //Magic Scroll (Attributable)
+6450      1       10        11        12        //Runedil's Goldentune Harp
+6451      1       10        13        14        //Lemuria's Orb
+6452      1       15        16        17        //Norrwen's Bloodstring Lyra
+6644      1       18        19        17        //Brilliant Orb (I)
+6647      2       7         20        0         //Antonias' Sword (I)
 end
 
 1
@@ -42,4 +45,7 @@ end
 15        "Add Elemental Critical D. Rate"     5       1       1       7        *       *       *        *       *       *        *       *       *        *       *       *
 16        "Add Elemental Critical D. Rate"     10      0       2       3        *       *       *        *       *       *        *       *       *        *       *       *
 17        "Add Elemental Critical D. Rate"     25      0       3       0        1       3       0        *       *       *        *       *       *        *       *       *
+18        "Mul Pentagram Damage Defense"       5       0       1       7        4       1       7        *       *       *        *       *       *        *       *       *
+19        "Mul Pentagram Defense"              10      1       2       0        3       2       0        *       *       *        *       *       *        *       *       *
+20        "Add Elemental D. Transfer Rate"     5       0       3       5        1       3       5        *       *       *        *       *       *        *       *       *
 end

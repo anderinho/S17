@@ -7,6 +7,8 @@
 3708      0       2400    10        10        10        10        10        10        10        //Rune Spink Mask
 3770      0       2400    10        10        10        10        10        10        10        //Slayer Helm
 3802      0       2400    10        10        10        10        10        10        10        //Scale Gunner Helm
+3833      0       2400    10        10        10        10        10        10        10        //Glimmer Helmet
+3851      0       2400    10        10        10        10        10        10        10        //Mage Sphinx Mask
 4158      0       2400    10        10        10        10        10        10        10        //Scale Armor
 4159      0       2400    10        10        10        10        10        10        10        //Silk Armor
 4160      0       2400    10        10        10        10        10        10        10        //Sphinx Armor
@@ -15,6 +17,8 @@
 4220      0       2400    10        10        10        10        10        10        10        //Rune Spink Armor
 4282      0       2400    10        10        10        10        10        10        10        //Slayer Armor
 4314      0       2400    10        10        10        10        10        10        10        //Scale Gunner Armor
+4345      0       2400    10        10        10        10        10        10        10        //Glimmer Armor
+4363      0       2400    10        10        10        10        10        10        10        //Mage Sphinx Armor
 4670      0       2400    10        10        10        10        10        10        10        //Scale Pants
 4671      0       2400    10        10        10        10        10        10        10        //Silk Pants
 4672      0       2400    10        10        10        10        10        10        10        //Sphinx Pants
@@ -23,6 +27,8 @@
 4732      0       2400    10        10        10        10        10        10        10        //Rune Spink Pants
 4794      0       2400    10        10        10        10        10        10        10        //Slayer Pants
 4826      0       2400    10        10        10        10        10        10        10        //Scale Gunner Pants
+4857      0       2400    10        10        10        10        10        10        10        //Glimmer Pants
+4875      0       2400    10        10        10        10        10        10        10        //Mage Sphinx Pants
 5182      0       2400    10        10        10        10        10        10        10        //Scale Gloves
 5183      0       2400    10        10        10        10        10        10        10        //Silk Gloves
 5184      0       2400    10        10        10        10        10        10        10        //Sphinx Gloves
@@ -31,6 +37,8 @@
 5244      0       2400    10        10        10        10        10        10        10        //Rune Spink Gloves
 5306      0       2400    10        10        10        10        10        10        10        //Slayer Gloves
 5338      0       2400    10        10        10        10        10        10        10        //Scale Gunner Gloves
+5369      0       2400    10        10        10        10        10        10        10        //Glimmer Gloves
+5387      0       2400    10        10        10        10        10        10        10        //Mage Sphinx Gloves
 5694      0       2400    10        10        10        10        10        10        10        //Scale Boots
 5695      0       2400    10        10        10        10        10        10        10        //Silk Boots
 5696      0       2400    10        10        10        10        10        10        10        //Sphinx Boots
@@ -39,6 +47,8 @@
 5756      0       2400    10        10        10        10        10        10        10        //Rune Spink Boots
 5818      0       2400    10        10        10        10        10        10        10        //Slayer Boots
 5850      0       2400    10        10        10        10        10        10        10        //Scale Gunner Boots
+5881      0       2400    10        10        10        10        10        10        10        //Glimmer Boots
+5899      0       2400    10        10        10        10        10        10        10        //Mage Sphinx Boots
 3650      1       2400    10        10        10        10        10        10        10        //Dark Soul Helm
 3651      1       2400    10        10        10        10        10        10        10        //Dragon Helm
 3652      1       2400    10        10        10        10        10        10        10        //Guardian Helm
@@ -49,6 +59,8 @@
 3709      1       2400    10        10        10        10        10        10        10        //Rune Legendary Helmet
 3771      1       2400    10        10        10        10        10        10        10        //Slayer Demonic Helm
 3803      1       2400    10        10        10        10        10        10        10        //Frere Helmet
+3834      1       2400    10        10        10        10        10        10        10        //Light Ray Helmet
+3852      1       2400    10        10        10        10        10        10        10        //Mage Legendary Helmet
 4162      1       2400    10        10        10        10        10        10        10        //Dark Soul Armor
 4163      1       2400    10        10        10        10        10        10        10        //Dragon Armor
 4164      1       2400    10        10        10        10        10        10        10        //Guardian Armor
@@ -60,6 +72,8 @@
 4221      1       2400    10        10        10        10        10        10        10        //Rune Legendary Armor
 4283      1       2400    10        10        10        10        10        10        10        //Slayer Demonic Armor
 4315      1       2400    10        10        10        10        10        10        10        //Frere Armor
+4346      1       2400    10        10        10        10        10        10        10        //Light Ray Pants
+4364      1       2400    10        10        10        10        10        10        10        //Mage Legendary Pants
 4674      1       2400    10        10        10        10        10        10        10        //Dark Soul Pants
 4675      1       2400    10        10        10        10        10        10        10        //Dragon Pants
 4676      1       2400    10        10        10        10        10        10        10        //Guardian Pants
@@ -71,6 +85,8 @@
 4733      1       2400    10        10        10        10        10        10        10        //Rune Legendary Pants
 4795      1       2400    10        10        10        10        10        10        10        //Slayer Demonic Pants
 4827      1       2400    10        10        10        10        10        10        10        //Frere Pants
+4858      1       2400    10        10        10        10        10        10        10        //Light Ray Pants
+4876      1       2400    10        10        10        10        10        10        10        //Mage Legendary Pants
 5186      1       2400    10        10        10        10        10        10        10        //Dark Soul Gloves
 5187      1       2400    10        10        10        10        10        10        10        //Dragon Gloves
 5188      1       2400    10        10        10        10        10        10        10        //Guardian Gloves
@@ -81,6 +97,8 @@
 5245      1       2400    10        10        10        10        10        10        10        //Rune Legendary Gloves
 5307      1       2400    10        10        10        10        10        10        10        //Slayer Demonic Gloves
 5339      1       2400    10        10        10        10        10        10        10        //Frere Gloves
+5370      1       2400    10        10        10        10        10        10        10        //Light Ray Gloves
+5388      1       2400    10        10        10        10        10        10        10        //Mage Legendary Gloves
 5698      1       2400    10        10        10        10        10        10        10        //Dark Soul Boots
 5699      1       2400    10        10        10        10        10        10        10        //Dragon Boots
 5700      1       2400    10        10        10        10        10        10        10        //Guardian Boots
@@ -92,4 +110,6 @@
 5757      1       2400    10        10        10        10        10        10        10        //Rune Legendary Boots
 5819      1       2400    10        10        10        10        10        10        10        //Slayer Demonic Boots
 5851      1       2400    10        10        10        10        10        10        10        //Frere Boots
+5882      1       2400    10        10        10        10        10        10        10        //Light Ray Boots
+5900      1       2400    10        10        10        10        10        10        10        //Mage Legendary Boots
 end
